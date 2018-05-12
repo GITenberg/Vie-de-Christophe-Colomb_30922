@@ -1,0 +1,36 @@
+_repo: Vie-de-Christophe-Colomb_30922
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bonnefoux, Pierre-Marie-Joseph, baron de
+    aliases:
+    - Bonnefoux, P.-M.-J. (Pierre-Marie-Joseph), baron de
+    - Bonnefoux, baron de
+    - De Bonnefoux, Pierre-Marie-Joseph, baron
+    birthdate: 1782
+    deathdate: 1855
+    gutenberg_agent_id: '34897'
+    url: http://www.gutenberg.org/2009/agents/34897
+description: ''
+gutenberg_bookshelf:
+- FR Voyages et pays
+- FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2010-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30922'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Columbus, Christopher'
+- !lcsh 'Explorers -- Spain -- Biography'
+- !lcc 'E011'
+- !lcsh 'Explorers -- America -- Biography'
+- !lcsh 'America -- Discovery and exploration -- Spanish'
+title: Vie de Christophe Colomb
+url: http://www.gutenberg.org/ebooks/30922
